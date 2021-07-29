@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/helpers/index.tsx"],"names":["Helpers"],"mappings":"2FAAA,uBAMeA,UAJoB,WACjC,OAAO","file":"static/js/6.155eb673.chunk.js","sourcesContent":["import React, { FunctionComponent, ReactElement } from \"react\";\n\nconst Helpers: FunctionComponent = (): ReactElement => {\n  return <div>Helpers</div>;\n};\n\nexport default Helpers;\n"],"sourceRoot":""}
